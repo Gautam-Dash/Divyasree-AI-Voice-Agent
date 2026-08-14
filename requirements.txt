@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pyhton-dotenv
+requests
