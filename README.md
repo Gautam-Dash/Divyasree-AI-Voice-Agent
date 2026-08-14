@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 Create a .env file in the project root:
 
-VAPI_API_KEY=your_private_vapi_api_key
+VAPI_API_KEY=your_public_vapi_api_key
 VAPI_ASSISTANT_ID=your_vapi_assistant_id
 VAPI_PHONE_NUMBER_ID=your_vapi_phone_number_id
 
